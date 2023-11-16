@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FanWall</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="set_wallpaper">SET WALLPAPER</string>
+    <string name="more_like_this">Similar Wallpapers</string>
+    <string name="home_screen_wallpaper">-> Set Home Screen Wallpaper</string>
+    <string name="set_lock_screen_wallpaper">-> Set Lock Screen Wallpaper</string>
+    <string name="help_amp_feedback">Help &amp; Feedback</string>
+    <string name="support_us">Support Us</string>
+    <string name="check_for_updates">Check For Updates</string>
+    <string name="info">Info</string>
+    <string name="enter_a_show_name">Enter A Show Name</string>
+    <string name="HelpAndFeedbackMessage">If you have any query, question or feedback regarding the application you can either mail me or go to play store and ask your question under the reviews section. As always, I\'ll be happy to help. \n\nYou can find my e-mail in info page.</string>
+    <string name="SupportUsMessage">If you liked our application then we will be very happy if you provide a review on play store. Those reviews give us motivation to do more. \nThank You!</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="dev_mail">piyushforbusiness@gmail.com</string>
+    <string name="current_version">Current Version</string>
+    <string name="requestShow">Request A Show</string>
+</resources>

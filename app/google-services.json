@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "140955846366",
+    "project_id": "fanwall-81a5e",
+    "storage_bucket": "fanwall-81a5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140955846366:android:36549c7d4e99fb53b9644f",
+        "android_client_info": {
+          "package_name": "com.lithium.fanwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140955846366-7hc34nlg5niju1i7obr5f434h4vpagi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInDM5d0r4QFyoxZHZh8iSfLFGXB8W0uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140955846366-7hc34nlg5niju1i7obr5f434h4vpagi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140955846366:android:91358de9ee63fcbbb9644f",
+        "android_client_info": {
+          "package_name": "com.lithium.fanwall_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140955846366-7hc34nlg5niju1i7obr5f434h4vpagi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInDM5d0r4QFyoxZHZh8iSfLFGXB8W0uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140955846366-7hc34nlg5niju1i7obr5f434h4vpagi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
